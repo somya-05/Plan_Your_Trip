@@ -1,2 +1,3 @@
 # Plan_Your_Trip
-this is a cloned website project for MIST(Manipal Information Security Team)
+this is a cloned website project for MIST(Manipal Information Security Team) using html, css, js and bootstrap
+
