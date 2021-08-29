@@ -1,0 +1,99 @@
+nav{
+    background-color: #270E2D; 
+}
+
+html{
+      background-color: #270E2D; 
+  }
+ 
+  div a:hover{
+    
+    background-color:#660885;
+    
+  }
+  section{
+    background-color: #270E2D;
+  }
+  .intro-text{
+      color: white;
+  }
+  .intro{
+      padding-left: 10%;
+  }
+  .Details{
+      color:white;
+      
+      font-size: 20px;
+  }
+  .container{
+    
+  }
+  div.Waves{
+    position: relative;
+    width:100%;
+    height:auto;
+    background-color: #270E2D;
+    right: 11%;
+    
+
+}
+
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #BD00FF !important;
+    padding:10px;
+}
+button[type="submit"], button[type="submit"]:hover, button[type="submit"]:active, button[type="submit"]:visited{
+    font-size: 22px;
+    padding:25px;
+}
+  
+  .line{
+      padding-left:38%;
+      color:#660885;
+  }
+  .ending{
+    height:12px;
+      color:white;
+  }
+  .container-fluid footerdiv button{
+      padding-left: 100%;
+  }
+
+    .rounded-circle{
+        
+        
+        width:40%;
+        height:40%;
+    }
+    p[type="review"]{
+        font-size:20px;
+    }
+    
+    div.box{
+        background-color: #270E2D;
+        width:100%;
+    }  
+    hr.dot-line{
+        border: 2px;
+        border-top:dashed;
+        color: #BD00FF ;
+    }
+    .nav{
+        align:left;
+    }
+    section.flexbox{
+        background-color: #BD00FF;
+        
+    }
+    .footer{
+       color: #BD00FF;
+    }
+    #myBtn{
+        background-color: #270E2D !important;
+    padding:5px;
+    width:5%;
+    height:auto;
+    font-size:30px;
+    float:right;
+    }
+
